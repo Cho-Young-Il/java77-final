@@ -116,4 +116,4 @@ SK PLAN-IT은 한마디로 축구 동호회 사이트이다. 기존 카페나 �
 
 ## [Demo & Detail][2] ##
 [1]:https://github.com/java77-final-project/web-project/
-[2]:http://blog.naver.com/iamcyi
+[2]:http://blog.naver.com/iamcyi/220679831092
