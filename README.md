@@ -115,5 +115,5 @@ SK PLAN-IT은 한마디로 축구 동호회 사이트이다. 기존 카페나 �
 주철민(팀장), 김대오, 최승완, 조영일
 
 ## [Demo & Detail][2] ##
-[1]:https://github.com/java77-final-project/web-project/
+[1]:https://github.com/Cho-Young-Il/java77-final
 [2]:http://blog.naver.com/iamcyi/220679831092
